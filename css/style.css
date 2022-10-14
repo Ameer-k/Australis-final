@@ -5118,7 +5118,7 @@ table.border {
   display: block;
 }
 .logo-pre {
-  background: linear-gradient(to bottom, #fffce9 0%, #ffe1ec 100%);
+  /* background: linear-gradient(to bottom, #fffce9 0%, #ffe1ec 100%); */
   border-radius: 50%;
   height: 100px;
   width: 100px;
