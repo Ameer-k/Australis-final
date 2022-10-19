@@ -1,6 +1,4 @@
-/* Theme: Niwax - Creative Web Design & Digital Marketing Agency HTML5 Template
-Author: Rajesh-Doot	
-File Description: Main JS file of the template*/
+
 (function ($) {
     "use strict";
   
@@ -13,7 +11,7 @@ File Description: Main JS file of the template*/
       disableAt: false,
       customToggle: $toggle,
       levelSpacing: 10,
-       navTitle: 'Niwax Menu',
+       navTitle: 'Menu',
        levelTitles: true,
       levelTitles: true,
        labelClose: false,
@@ -51,12 +49,12 @@ File Description: Main JS file of the template*/
       }
     );
   
-   //Video magnificPopup
-    $('.video-link').magnificPopup({
-      type: 'iframe',
-      mainClass: 'mfp-fade',
-      removalDelay: 160,
-    });
+  //  //Video magnificPopup
+  //   $('.video-link').magnificPopup({
+  //     type: 'iframe',
+  //     mainClass: 'mfp-fade',
+  //     removalDelay: 160,
+  //   });
   
  
    //Owl-Carousel - Home hero card

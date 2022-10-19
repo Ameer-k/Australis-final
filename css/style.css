@@ -1,5 +1,4 @@
-/*Theme: Niwax - Creative Web Design & Digital Marketing Agency HTML5 Template
-Author: Rajesh-Doot
+/*
 File Description: Main CSS file of the template*/
 
 /*scrollbar theme*/
@@ -240,6 +239,7 @@ span.circle2 {
 }
 .mob-nav li {
   position: relative;
+  
 }
 .ml8 {
   margin-left: 8px;
@@ -325,7 +325,7 @@ header .dropdown-menu {
 }
 .navbar-toggler {
   background-color: #fff;
-  border: 1px solid #fff;
+  border: 1px solid rgb(170, 162, 162);
 }
 .top-header .sticky {
   background: #fff;
@@ -406,7 +406,7 @@ header .dropdown-menu {
   top: 65px;
 }
 .nav-bg-b .custom-nav .nav-list li a.menu-links {
-  color: #fff;
+  color: #000;
 }
 .main-header.sticky {
   background: #fff;
@@ -4280,33 +4280,34 @@ h3 a {
     #4775ff 50%,
     #00b6d4 100%
   );
-  background-image: -webkit-linear-gradient(
+  /* background-image: -webkit-linear-gradient(
     45deg,
     #9217de 0%,
     #4775ff 50%,
     #00b6d4 100%
-  );
-  background-image: linear-gradient(
+  ); */
+  /* background-image: linear-gradient(
     45deg,
     #4a0079 0%,
     #4202b2 50%,
     #4400b1 100%
-  );
+  ); */
 }
 .hero-heading-sec2 h1 {
   color: #fff;
   font-size: 45px;
   line-height: 60px;
-  font-weight: 900;
+  font-weight: 600;
   display: inline-block;
-  background: linear-gradient(
+  background: #000;
+  /* background: linear-gradient(
     90deg,
     #aa6dff 0%,
     #ff448e 25%,
     #ff9d57 50%,
     #ff38d3 75%,
     #00ffdc 100%
-  );
+  ); */
   background-size: cover;
   background-position: center;
   -webkit-background-clip: text;
@@ -4315,7 +4316,7 @@ h3 a {
   color: transparent;
 }
 .hero-heading-sec2 > p {
-  color: #fff000;
+  color: #000;
   font-size: 18px;
   margin: 30px 0;
 }
@@ -6657,7 +6658,7 @@ a.smllbtnn {
   border: 0px solid rgb(255 255 255 / 50%);
 }
 .widebloktag span {
-  background: #fff;
+  /* background: #fff; */
   padding: 5px 14px;
   font-size: 14px;
   border-radius: 4px;
@@ -8632,3 +8633,16 @@ img {
 input {
   accent-color: #ff1f8e;
 }
+
+
+
+
+
+
+/* 
+
+food tech lab
+early learning center
+11queens road
+mezzanine projects
+*/
