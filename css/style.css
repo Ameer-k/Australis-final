@@ -9,16 +9,16 @@ File Description: Main CSS file of the template*/
   background: #e8e8e8;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #fb5496;
+  background: #3f12e4;
 }
 ::-webkit-scrollbar-thumb {
-  background-image: -webkit-linear-gradient(45deg, #ffbd84, #ff1f8e);
-  background-image: -o-linear-gradient(45deg, #ffbd84, #ff1f8e);
-  background-image: linear-gradient(45deg, #ffbd84, #ff1f8e);
+  background-image: -webkit-linear-gradient(45deg, #3f12e4, #3444c2);
+  background-image: -o-linear-gradient(45deg, #3f12e4, #3444c2);
+  background-image: linear-gradient(45deg, #3f12e4, #3444c2);
 }
 /*Default css*/
 ::-moz-selection {
-  background: rgba(166, 175, 189, 0.3);
+  background: rgba(166, 175, 189, 0.3); 
 }
 ::selection {
   background: rgba(166, 175, 189, 0.3);
@@ -197,7 +197,7 @@ span.circle2 {
   color: #fe4c1c;
 }
 .text-second {
-  color: #e91e63;
+  color: #3444c2;
 }
 .text-bold {
   font-weight: bold;
@@ -2027,7 +2027,7 @@ footer.ftshap:before {
   line-height: 1;
 }
 .footer-social-media-icons a:hover {
-  color: #ff1f8e !important;
+  color: #0d22bd !important;
 }
 .footer-social-media-icons a {
   color: #6a6a8e;
@@ -2440,9 +2440,9 @@ footer.ftshap:before {
   border-radius: 100px;
 }
 .btn-outline:hover {
-  background: #ff1f8e;
+  background: #3444c2;
   color: #fff;
-  border: 2px solid #ff1f8e;
+  border: 2px solid #3444c2;
 }
 .cta-call {
   margin: 30px 0 0 0;
@@ -5449,10 +5449,10 @@ html .pb140 {
   -webkit-text-fill-color: transparent;
 }
 .bg-btn {
-  background: #ffbd84;
-  background: -moz-linear-gradient(left, #ffbd84 0%, #ff1f8e 100%);
-  background: -webkit-linear-gradient(left, #ffbd84 0%, #ff1f8e 100%);
-  background: linear-gradient(to right, #ffbd84 0%, #ff1f8e 100%);
+  background: #3444c2;
+  /* background: -moz-linear-gradient(left, #ffbd84 0%, #ff1f8e 100%);
+  background: -webkit-linear-gradient(left, #ffbd84 0%, #ff1f8e 100%); */
+  /* background: linear-gradient(to right, #ffbd84 0%, #ff1f8e 100%); */
   -webkit-box-shadow: 0 10px 15px 0px rgba(175, 0, 87, 0.2);
   box-shadow: 0 10px 15px 0px rgba(175, 0, 87, 0.2);
 }
@@ -5480,19 +5480,7 @@ html .pb140 {
   border: 1px solid #fff;
 }
 .bg-btn5 {
-  background: #ff0048;
-  background-image: -webkit-linear-gradient(
-    45deg,
-    #ff3870 0%,
-    #ff3870 50%,
-    #c300c3 100%
-  );
-  background-image: linear-gradient(
-    45deg,
-    #ff0048 0%,
-    #ff3870 50%,
-    #c300c3 100%
-  );
+  background: #3444c2;
   -webkit-box-shadow: 0 10px 15px 0px rgba(56, 0, 189, 0.2);
   box-shadow: 0 10px 15px 0px rgba(56, 0, 189, 0.2);
 }
